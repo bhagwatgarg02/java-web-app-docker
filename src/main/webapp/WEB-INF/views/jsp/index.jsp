@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Bhagwat Garg Channel, Pune, India, Maharashtra.</h2>
+			<h3>Contact @bhagwatgarg2@gmail.com</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2023</p>
+		<p>&copy; Bhagwat Garg</p>
 	</footer>
 </div>
 
